@@ -1,5 +1,7 @@
 # ImageSteganography
-Simple console program for hiding messages into bitmap and discovering messages from it. Program use simple steganography technique of modifying LSB (least significant bit) of color components (R, G, B) of each pixel. Modifying just LSB viewer cannot detect color modification. Key is used to additionally encrypt message using XOR technique.
+Simple console program demonstrating steganography techniques.
+
+Console program for hiding messages into bitmap and discovering messages from it. Program use simple steganography technique of modifying LSB (least significant bit) of color components (R, G, B) of each pixel. Modifying just LSB viewer cannot detect color modification. Key is used to additionally encrypt message using XOR technique.
 
 Usage
 ------
